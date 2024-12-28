@@ -3,7 +3,7 @@
 This repository was meant to have an example of JSON processing in a Spring Boot context.
 ## Current state
 The current state of the repository contains tests where the JSON processing is implemented.
-## Project Structure
+## Project Structure (should be state)
 Several cases can be used when processing a JSON file including:
 * API (programmatic) way:
   * Read a JSON file from the file system, traverse it node by node, and extract some data into an object.
